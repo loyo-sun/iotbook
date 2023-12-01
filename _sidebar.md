@@ -1,3 +1,1 @@
-- [Read Me](README)
-- [Example Second Page](second-page)
-- [hi](_posts/2023-12-01-hi-wo1dq.md)
+[首页](home)
